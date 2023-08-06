@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <body>
+<form action="/input-compiler.lua" method="post">
+Your prompt: <input type="text" name="prompt">
+<input type="submit">
+</form>
+
+</body>
+</html>

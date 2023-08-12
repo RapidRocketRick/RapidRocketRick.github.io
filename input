@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html>
-    <body>
-<form action="/input-compiler.lua" method="post">
-Your prompt: <input type="text" name="prompt">
-<input type="submit">
-</form>
-
-</body>
-</html>
+123Code1_4
+314159_2_t

@@ -1,5 +1,6 @@
-input = prompt
+a = io.stream()
 
-function valuecheck()
+b = io.open(codes.md, "r")
 
+function check()
 end
